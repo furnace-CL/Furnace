@@ -8,7 +8,7 @@
 
 Search, download, install, and manage your games in one clean desktop app.
 
-[![Visit Website](https://img.shields.io/badge/VISIT_WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=111111)](https://YOUR-WEBSITE-URL)
+[![Visit Website](https://img.shields.io/badge/VISIT_WEBSITE-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=111111)](https://furnacegames.fun/)
 
 </div>
 
@@ -29,6 +29,6 @@ Search, download, install, and manage your games in one clean desktop app.
 
 <div align="center">
 
-**[Explore Furnace on our website]()**
+**[Explore Furnace on our website](https://furnacegames.fun/)**
 
 </div>
